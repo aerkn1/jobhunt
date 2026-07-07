@@ -1,0 +1,55 @@
+name: job-hunt
+
+on:
+  schedule:
+    # NOTE: GitHub cron is ALWAYS UTC. Istanbul = UTC+3 (no DST).
+    - cron: '0 6 * * *'      # 09:00 Istanbul — morning discovery
+    - cron: '0 15 * * *'     # 18:00 Istanbul — evening discovery
+  workflow_dispatch:
+    inputs:
+      task:
+        description: 'Which entrypoint to run'
+        required: true
+        default: discover
+        type: choice
+        options: [discover, approve]
+
+concurrency:
+  group: job-hunt
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    env:
+      NOTION_TOKEN:      ${{ secrets.NOTION_TOKEN }}
+      NOTION_DB_ID:      ${{ secrets.NOTION_DB_ID }}
+      LLM_API_KEY:       ${{ secrets.LLM_API_KEY }}
+      TELEGRAM_TOKEN:    ${{ secrets.TELEGRAM_TOKEN }}
+      TELEGRAM_CHAT_ID:  ${{ secrets.TELEGRAM_CHAT_ID }}
+      NOTION_BOARD_URL:  ${{ vars.NOTION_BOARD_URL }}    # optional: nice deep link in digests
+      CV_TEXT:           ${{ secrets.CV_TEXT }}          # optional: CV via secret instead of cv.md
+    steps:
+      - uses: actions/checkout@v4          # brings config.yaml + cv/cv.md (or cv/cv.pdf)
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Run
+        run: python -m jobhunt.${{ github.event.inputs.task || 'discover' }}
+
+      - name: Commit seen log
+        if: (github.event.inputs.task || 'discover') == 'discover'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .jobhunt/seen.jsonl
+          git diff --staged --quiet || git commit -m "chore: update seen log [skip ci]"
+          git push

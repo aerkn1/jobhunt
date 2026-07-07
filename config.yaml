@@ -1,0 +1,58 @@
+# =====================================================================
+# jobhunt configuration  —  edit this file, commit, and the next
+# scheduled GitHub Actions run picks up the change. No code edits needed.
+# Secrets (tokens/keys) do NOT live here — they go in GitHub Secrets.
+# =====================================================================
+
+# ---- what to search for ---------------------------------------------
+targets:
+  # Use exact Indeed country names (see jobspy docs). "Remote" bakes remote
+  # into the search term (Indeed) / location (LinkedIn) instead of is_remote.
+  countries:
+    - Germany
+    - Netherlands
+    - United Kingdom
+    - Remote
+  titles:
+    - Backend Engineer
+    - Platform Engineer
+    - Site Reliability Engineer
+
+# ---- scoring --------------------------------------------------------
+scoring:
+  fit_threshold: 70        # 0-100; only jobs at/above this become Notion tickets
+  hours_old: 12            # look-back window per run (each run is ~12h apart)
+  max_jobs_per_query: 25   # results_wanted per (title x country) pull
+  seen_log: .jobhunt/seen.jsonl   # append-only scan log (committed; dedupe + cost control)
+
+# ---- LLM (OpenAI) ---------------------------------------------------
+# Set LLM_API_KEY to your OpenAI API key (GitHub secret at runtime).
+llm:
+  model: gpt-4o-mini
+  score:                   # bulk job/CV fit scoring in discover
+    max_tokens: 200
+    temperature: 0.7      # deterministic JSON scores
+  draft:                   # tailored CV + cover letter in approve
+    max_tokens: 1600
+    temperature: 0.7
+
+# ---- sources --------------------------------------------------------
+sources:
+  boards: [indeed, linkedin]
+  visa_repo:
+    enabled: true
+    url: https://github.com/Lamiiine/Awesome-daily-list-of-visa-sponsored-jobs
+    fetch_job_page: true      # GET apply URL; fill description before scoring
+    fetch_timeout_sec: 10
+    max_concurrent: 3
+
+# ---- board ----------------------------------------------------------
+notion:
+  new_lane: "New"          # status name for freshly-scored tickets
+
+# ---- CV -------------------------------------------------------------
+# Drop any single PDF in cv/ — markdown is generated alongside it (<name>.md).
+# Run python -m jobhunt.scripts.cv_from_pdf once, or let discover regenerate
+# when the PDF changes. Alternatively set the CV_TEXT GitHub secret.
+cv:
+  dir: cv

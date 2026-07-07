@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.egg-info/
+.DS_Store
+
+# CV source PDFs (commit generated .md for CI, or use CV_TEXT secret):
+cv/*.pdf
