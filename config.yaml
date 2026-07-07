@@ -20,7 +20,7 @@ targets:
 
 # ---- scoring --------------------------------------------------------
 scoring:
-  fit_threshold: 70        # 0-100; only jobs at/above this become Notion tickets
+  fit_threshold: 80        # 0-100; only jobs at/above this become Notion tickets
   hours_old: 12            # look-back window per run (each run is ~12h apart)
   max_jobs_per_query: 25   # results_wanted per (title x country) pull
   seen_log: .jobhunt/seen.jsonl   # append-only scan log (committed; dedupe + cost control)
