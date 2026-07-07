@@ -11,12 +11,16 @@ targets:
   countries:
     - Germany
     - Netherlands
-    - United Kingdom
+    - Sweden
+    - Belgium
     - Remote
   titles:
     - Backend Engineer
     - Platform Engineer
+    - DevOps Engineer
     - Site Reliability Engineer
+    - Forward Deployed Engineer
+    - Junior Backend Engineer
 
 # ---- scoring --------------------------------------------------------
 scoring:
@@ -30,11 +34,11 @@ scoring:
 llm:
   model: gpt-4o-mini
   score:                   # bulk job/CV fit scoring in discover
-    max_tokens: 200
-    temperature: 0.7      # deterministic JSON scores
+    max_tokens: 300
+    temperature: 0.8      # deterministic JSON scores
   draft:                   # tailored CV + cover letter in approve
-    max_tokens: 1600
-    temperature: 0.7
+    max_tokens: 2000
+    temperature: 0.8
 
 # ---- sources --------------------------------------------------------
 sources:
