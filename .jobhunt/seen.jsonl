@@ -1975,3 +1975,460 @@
 {"url": "https://www.linkedin.com/jobs/view/4428265124", "scanned_at": "2026-07-08T16:54:51+00:00", "source": "linkedin", "score": 85, "ticket": true}
 {"url": "https://www.linkedin.com/jobs/view/4438250773", "scanned_at": "2026-07-08T16:54:51+00:00", "source": "linkedin", "score": 75, "ticket": false}
 {"url": "https://www.linkedin.com/jobs/view/4438185600", "scanned_at": "2026-07-08T16:54:52+00:00", "source": "linkedin", "score": 60, "ticket": false}
+{"url": "https://de.indeed.com/viewjob?jk=fed18b6ecb8a5a3d", "scanned_at": "2026-07-09T09:42:00+00:00", "source": "indeed", "score": 70, "ticket": false, "post_date": "2026-06-03"}
+{"url": "https://de.indeed.com/viewjob?jk=8f5d342a9fb36b25", "scanned_at": "2026-07-09T09:42:01+00:00", "source": "indeed", "score": 65, "ticket": false, "post_date": "2026-07-09"}
+{"url": "https://de.indeed.com/viewjob?jk=3397ddda8376485e", "scanned_at": "2026-07-09T09:42:03+00:00", "source": "indeed", "score": 85, "ticket": true, "post_date": "2026-07-09"}
+{"url": "https://de.indeed.com/viewjob?jk=a8191dc9a086c420", "scanned_at": "2026-07-09T09:42:04+00:00", "source": "indeed", "score": 75, "ticket": false, "post_date": "2026-07-09"}
+{"url": "https://de.indeed.com/viewjob?jk=6dda9545b7eda04a", "scanned_at": "2026-07-09T09:42:05+00:00", "source": "indeed", "score": 75, "ticket": false, "post_date": "2026-07-09"}
+{"url": "https://de.indeed.com/viewjob?jk=c52edabf76d0412f", "scanned_at": "2026-07-09T09:42:07+00:00", "source": "indeed", "score": 75, "ticket": false, "post_date": "2026-07-09"}
+{"url": "https://de.indeed.com/viewjob?jk=ae767efcca1cf06f", "scanned_at": "2026-07-09T09:42:08+00:00", "source": "indeed", "score": 75, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://de.indeed.com/viewjob?jk=bf8793a964ce1eac", "scanned_at": "2026-07-09T09:42:09+00:00", "source": "indeed", "score": 70, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://de.indeed.com/viewjob?jk=3247d7925dbcd227", "scanned_at": "2026-07-09T09:42:09+00:00", "source": "indeed", "score": 70, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://de.indeed.com/viewjob?jk=a98ee3ee1eb93328", "scanned_at": "2026-07-09T09:42:11+00:00", "source": "indeed", "score": 70, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://de.indeed.com/viewjob?jk=d4129d27e5c11517", "scanned_at": "2026-07-09T09:42:12+00:00", "source": "indeed", "score": 65, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://de.indeed.com/viewjob?jk=f49ff137972a5c1d", "scanned_at": "2026-07-09T09:42:13+00:00", "source": "indeed", "score": 50, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://de.indeed.com/viewjob?jk=5a5d5ea8973c2c8a", "scanned_at": "2026-07-09T09:42:13+00:00", "source": "indeed", "score": 40, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://de.indeed.com/viewjob?jk=69b551e3282e222e", "scanned_at": "2026-07-09T09:42:14+00:00", "source": "indeed", "score": 50, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://de.indeed.com/viewjob?jk=5501b3d9dee02790", "scanned_at": "2026-07-09T09:42:15+00:00", "source": "indeed", "score": 60, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://de.indeed.com/viewjob?jk=906be11eeb3cc5c5", "scanned_at": "2026-07-09T09:42:16+00:00", "source": "indeed", "score": 60, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://de.indeed.com/viewjob?jk=64d22862b015a758", "scanned_at": "2026-07-09T09:42:17+00:00", "source": "indeed", "score": 60, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://de.indeed.com/viewjob?jk=d14f5ce1dc5b2112", "scanned_at": "2026-07-09T09:42:18+00:00", "source": "indeed", "score": 85, "ticket": true, "post_date": "2026-07-08"}
+{"url": "https://de.indeed.com/viewjob?jk=b58821739c578f79", "scanned_at": "2026-07-09T09:42:19+00:00", "source": "indeed", "score": 60, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://de.indeed.com/viewjob?jk=f721d545b45cd807", "scanned_at": "2026-07-09T09:42:21+00:00", "source": "indeed", "score": 85, "ticket": true, "post_date": "2026-07-08"}
+{"url": "https://de.indeed.com/viewjob?jk=fa209ad1861e3cae", "scanned_at": "2026-07-09T09:42:21+00:00", "source": "indeed", "score": 50, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://de.indeed.com/viewjob?jk=fc81b9c1ed62c455", "scanned_at": "2026-07-09T09:42:22+00:00", "source": "indeed", "score": 70, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://de.indeed.com/viewjob?jk=85cc87c340df92c9", "scanned_at": "2026-07-09T09:42:24+00:00", "source": "indeed", "score": 80, "ticket": true, "post_date": "2026-07-08"}
+{"url": "https://de.indeed.com/viewjob?jk=aeed892b4f7249c1", "scanned_at": "2026-07-09T09:42:24+00:00", "source": "indeed", "score": 60, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://de.indeed.com/viewjob?jk=07c0fbdf04c7a09e", "scanned_at": "2026-07-09T09:42:26+00:00", "source": "indeed", "score": 80, "ticket": true, "post_date": "2026-07-08"}
+{"url": "https://de.indeed.com/viewjob?jk=3ee162fa11c5d753", "scanned_at": "2026-07-09T09:42:28+00:00", "source": "indeed", "score": 85, "ticket": true, "post_date": "2024-11-29"}
+{"url": "https://de.indeed.com/viewjob?jk=f5ce8637c71036ea", "scanned_at": "2026-07-09T09:42:29+00:00", "source": "indeed", "score": 40, "ticket": false, "post_date": "2026-07-09"}
+{"url": "https://de.indeed.com/viewjob?jk=1c12a363261f764b", "scanned_at": "2026-07-09T09:42:29+00:00", "source": "indeed", "score": 30, "ticket": false, "post_date": "2026-07-09"}
+{"url": "https://de.indeed.com/viewjob?jk=ea5e78a3c57e852f", "scanned_at": "2026-07-09T09:42:30+00:00", "source": "indeed", "score": 50, "ticket": false, "post_date": "2026-07-09"}
+{"url": "https://de.indeed.com/viewjob?jk=33f3d35dcc315c20", "scanned_at": "2026-07-09T09:42:31+00:00", "source": "indeed", "score": 55, "ticket": false, "post_date": "2026-07-09"}
+{"url": "https://de.indeed.com/viewjob?jk=be687384b041cbec", "scanned_at": "2026-07-09T09:42:32+00:00", "source": "indeed", "score": 75, "ticket": false, "post_date": "2026-07-09"}
+{"url": "https://de.indeed.com/viewjob?jk=de1d3463d38a9555", "scanned_at": "2026-07-09T09:42:33+00:00", "source": "indeed", "score": 30, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://de.indeed.com/viewjob?jk=8b53f6c4250181dc", "scanned_at": "2026-07-09T09:42:34+00:00", "source": "indeed", "score": 35, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://de.indeed.com/viewjob?jk=a564ac507d5b1883", "scanned_at": "2026-07-09T09:42:35+00:00", "source": "indeed", "score": 70, "ticket": false, "post_date": "2026-07-07"}
+{"url": "https://de.indeed.com/viewjob?jk=e77997d704311d65", "scanned_at": "2026-07-09T09:42:36+00:00", "source": "indeed", "score": 25, "ticket": false, "post_date": "2026-07-07"}
+{"url": "https://de.indeed.com/viewjob?jk=ea2c760c57952cb2", "scanned_at": "2026-07-09T09:42:37+00:00", "source": "indeed", "score": 50, "ticket": false, "post_date": "2026-07-07"}
+{"url": "https://www.linkedin.com/jobs/view/4435648270", "scanned_at": "2026-07-09T09:42:39+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4435649257", "scanned_at": "2026-07-09T09:42:41+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4437361684", "scanned_at": "2026-07-09T09:42:42+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4435640674", "scanned_at": "2026-07-09T09:42:44+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438605411", "scanned_at": "2026-07-09T09:42:45+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438590992", "scanned_at": "2026-07-09T09:42:47+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4435656350", "scanned_at": "2026-07-09T09:42:48+00:00", "source": "linkedin", "score": 65, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438583310", "scanned_at": "2026-07-09T09:42:49+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4435624928", "scanned_at": "2026-07-09T09:42:50+00:00", "source": "linkedin", "score": 25, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438601077", "scanned_at": "2026-07-09T09:42:51+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4435646572", "scanned_at": "2026-07-09T09:42:52+00:00", "source": "linkedin", "score": 20, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435639919", "scanned_at": "2026-07-09T09:42:52+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435649253", "scanned_at": "2026-07-09T09:42:53+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435644416", "scanned_at": "2026-07-09T09:42:55+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4435654111", "scanned_at": "2026-07-09T09:42:55+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4414186389", "scanned_at": "2026-07-09T09:42:57+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4435642457", "scanned_at": "2026-07-09T09:42:58+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435657064", "scanned_at": "2026-07-09T09:42:59+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438561054", "scanned_at": "2026-07-09T09:43:00+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4435655087", "scanned_at": "2026-07-09T09:43:01+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4437334969", "scanned_at": "2026-07-09T09:43:02+00:00", "source": "linkedin", "score": 80, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4435660258", "scanned_at": "2026-07-09T09:43:03+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435645420", "scanned_at": "2026-07-09T09:43:03+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435647126", "scanned_at": "2026-07-09T09:43:04+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435648273", "scanned_at": "2026-07-09T09:43:05+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435625853", "scanned_at": "2026-07-09T09:43:06+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4437390120", "scanned_at": "2026-07-09T09:43:07+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4435634785", "scanned_at": "2026-07-09T09:43:08+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435648271", "scanned_at": "2026-07-09T09:43:09+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4435661313", "scanned_at": "2026-07-09T09:43:10+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438566962", "scanned_at": "2026-07-09T09:43:11+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438567328", "scanned_at": "2026-07-09T09:43:13+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4425813062", "scanned_at": "2026-07-09T09:43:14+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435648579", "scanned_at": "2026-07-09T09:43:15+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438610052", "scanned_at": "2026-07-09T09:43:17+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4437335855", "scanned_at": "2026-07-09T09:43:18+00:00", "source": "linkedin", "score": 55, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438570791", "scanned_at": "2026-07-09T09:43:18+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435654494", "scanned_at": "2026-07-09T09:43:20+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4309054492", "scanned_at": "2026-07-09T09:43:20+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438589525", "scanned_at": "2026-07-09T09:43:21+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437363675", "scanned_at": "2026-07-09T09:43:22+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4437385182", "scanned_at": "2026-07-09T09:43:23+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438603582", "scanned_at": "2026-07-09T09:43:24+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437377618", "scanned_at": "2026-07-09T09:43:25+00:00", "source": "linkedin", "score": 40, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435652145", "scanned_at": "2026-07-09T09:43:26+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438540927", "scanned_at": "2026-07-09T09:43:27+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438538947", "scanned_at": "2026-07-09T09:43:28+00:00", "source": "linkedin", "score": 60, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437331521", "scanned_at": "2026-07-09T09:43:29+00:00", "source": "linkedin", "score": 90, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4435639543", "scanned_at": "2026-07-09T09:43:30+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437375812", "scanned_at": "2026-07-09T09:43:32+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4437337901", "scanned_at": "2026-07-09T09:43:33+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435648698", "scanned_at": "2026-07-09T09:43:33+00:00", "source": "linkedin", "score": 65, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437357029", "scanned_at": "2026-07-09T09:43:34+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4437357596", "scanned_at": "2026-07-09T09:43:38+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4437352755", "scanned_at": "2026-07-09T09:43:39+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438557273", "scanned_at": "2026-07-09T09:43:41+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438581390", "scanned_at": "2026-07-09T09:43:41+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438581394", "scanned_at": "2026-07-09T09:43:42+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438577583", "scanned_at": "2026-07-09T09:43:43+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438567945", "scanned_at": "2026-07-09T09:43:44+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435637990", "scanned_at": "2026-07-09T09:43:44+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435652628", "scanned_at": "2026-07-09T09:43:46+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4435643474", "scanned_at": "2026-07-09T09:43:47+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4437327431", "scanned_at": "2026-07-09T09:43:48+00:00", "source": "linkedin", "score": 60, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435643466", "scanned_at": "2026-07-09T09:43:49+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4437345765", "scanned_at": "2026-07-09T09:43:50+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438594058", "scanned_at": "2026-07-09T09:43:51+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4435642767", "scanned_at": "2026-07-09T09:43:52+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4429826799", "scanned_at": "2026-07-09T09:43:53+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4437369486", "scanned_at": "2026-07-09T09:43:55+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://nl.indeed.com/viewjob?jk=0df19da1f96c0bd7", "scanned_at": "2026-07-09T09:43:56+00:00", "source": "indeed", "score": 75, "ticket": false, "post_date": "2026-07-09"}
+{"url": "https://nl.indeed.com/viewjob?jk=67d60fc512c7849e", "scanned_at": "2026-07-09T09:43:56+00:00", "source": "indeed", "score": 75, "ticket": false, "post_date": "2026-07-09"}
+{"url": "https://nl.indeed.com/viewjob?jk=76bb600a57ad287c", "scanned_at": "2026-07-09T09:43:58+00:00", "source": "indeed", "score": 25, "ticket": false, "post_date": "2026-07-09"}
+{"url": "https://nl.indeed.com/viewjob?jk=deb2b4e039c99f64", "scanned_at": "2026-07-09T09:43:58+00:00", "source": "indeed", "score": 70, "ticket": false, "post_date": "2026-07-09"}
+{"url": "https://nl.indeed.com/viewjob?jk=19137d8500c119c5", "scanned_at": "2026-07-09T09:43:59+00:00", "source": "indeed", "score": 60, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://nl.indeed.com/viewjob?jk=7adfe61526641ccb", "scanned_at": "2026-07-09T09:44:00+00:00", "source": "indeed", "score": 50, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://nl.indeed.com/viewjob?jk=c5b75da5158264c2", "scanned_at": "2026-07-09T09:44:01+00:00", "source": "indeed", "score": 85, "ticket": true, "post_date": "2026-07-08"}
+{"url": "https://nl.indeed.com/viewjob?jk=2cdfecf1f389c08a", "scanned_at": "2026-07-09T09:44:04+00:00", "source": "indeed", "score": 85, "ticket": true, "post_date": "2025-06-18"}
+{"url": "https://www.linkedin.com/jobs/view/4438603187", "scanned_at": "2026-07-09T09:44:05+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4435635642", "scanned_at": "2026-07-09T09:44:08+00:00", "source": "linkedin", "score": 55, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4423881566", "scanned_at": "2026-07-09T09:44:09+00:00", "source": "linkedin", "score": 55, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435640783", "scanned_at": "2026-07-09T09:44:10+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4435641454", "scanned_at": "2026-07-09T09:44:11+00:00", "source": "linkedin", "score": 50, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438531921", "scanned_at": "2026-07-09T09:44:12+00:00", "source": "linkedin", "score": 50, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435637999", "scanned_at": "2026-07-09T09:44:13+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438568241", "scanned_at": "2026-07-09T09:44:14+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435624929", "scanned_at": "2026-07-09T09:44:15+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438536637", "scanned_at": "2026-07-09T09:44:16+00:00", "source": "linkedin", "score": 65, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438547637", "scanned_at": "2026-07-09T09:44:17+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438606388", "scanned_at": "2026-07-09T09:44:18+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438552444", "scanned_at": "2026-07-09T09:44:20+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438560154", "scanned_at": "2026-07-09T09:44:21+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438558190", "scanned_at": "2026-07-09T09:44:22+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://nl.indeed.com/viewjob?jk=8761503b569b628f", "scanned_at": "2026-07-09T09:44:23+00:00", "source": "indeed", "score": 40, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://nl.indeed.com/viewjob?jk=2f9958e6f418334e", "scanned_at": "2026-07-09T09:44:24+00:00", "source": "indeed", "score": 15, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://www.linkedin.com/jobs/view/4435660000", "scanned_at": "2026-07-09T09:44:25+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4437344640", "scanned_at": "2026-07-09T09:44:25+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438602657", "scanned_at": "2026-07-09T09:44:27+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4435629837", "scanned_at": "2026-07-09T09:44:27+00:00", "source": "linkedin", "score": 40, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438553770", "scanned_at": "2026-07-09T09:44:28+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435639913", "scanned_at": "2026-07-09T09:44:29+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4435643298", "scanned_at": "2026-07-09T09:44:30+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438599255", "scanned_at": "2026-07-09T09:44:32+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4426338732", "scanned_at": "2026-07-09T09:44:33+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4435609486", "scanned_at": "2026-07-09T09:44:34+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435647730", "scanned_at": "2026-07-09T09:44:34+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4421101764", "scanned_at": "2026-07-09T09:44:35+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438599417", "scanned_at": "2026-07-09T09:44:36+00:00", "source": "linkedin", "score": 60, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438578960", "scanned_at": "2026-07-09T09:44:36+00:00", "source": "linkedin", "score": 65, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4428707049", "scanned_at": "2026-07-09T09:44:37+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437386133", "scanned_at": "2026-07-09T09:44:39+00:00", "source": "linkedin", "score": 60, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4428704149", "scanned_at": "2026-07-09T09:44:39+00:00", "source": "linkedin", "score": 55, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4432249033", "scanned_at": "2026-07-09T09:44:40+00:00", "source": "linkedin", "score": 50, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4433217851", "scanned_at": "2026-07-09T09:44:41+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438605213", "scanned_at": "2026-07-09T09:44:41+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437377393", "scanned_at": "2026-07-09T09:44:42+00:00", "source": "linkedin", "score": 40, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435531879", "scanned_at": "2026-07-09T09:44:42+00:00", "source": "linkedin", "score": 30, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437385309", "scanned_at": "2026-07-09T09:44:43+00:00", "source": "linkedin", "score": 65, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435663325", "scanned_at": "2026-07-09T09:44:44+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437302941", "scanned_at": "2026-07-09T09:44:44+00:00", "source": "linkedin", "score": 65, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438603108", "scanned_at": "2026-07-09T09:44:45+00:00", "source": "linkedin", "score": 40, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437371949", "scanned_at": "2026-07-09T09:44:47+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435628822", "scanned_at": "2026-07-09T09:44:47+00:00", "source": "linkedin", "score": 35, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4429962466", "scanned_at": "2026-07-09T09:44:48+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438592535", "scanned_at": "2026-07-09T09:44:49+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435639921", "scanned_at": "2026-07-09T09:44:49+00:00", "source": "linkedin", "score": 45, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4355885248", "scanned_at": "2026-07-09T09:44:50+00:00", "source": "linkedin", "score": 30, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4433221742", "scanned_at": "2026-07-09T09:44:50+00:00", "source": "linkedin", "score": 40, "ticket": false}
+{"url": "https://se.indeed.com/viewjob?jk=30a045c797402061", "scanned_at": "2026-07-09T09:44:51+00:00", "source": "indeed", "score": 65, "ticket": false, "post_date": "2026-07-09"}
+{"url": "https://se.indeed.com/viewjob?jk=8201a9347880953b", "scanned_at": "2026-07-09T09:44:51+00:00", "source": "indeed", "score": 70, "ticket": false, "post_date": "2026-07-09"}
+{"url": "https://se.indeed.com/viewjob?jk=f1e85fbcd197b0aa", "scanned_at": "2026-07-09T09:44:52+00:00", "source": "indeed", "score": 70, "ticket": false, "post_date": "2026-07-09"}
+{"url": "https://se.indeed.com/viewjob?jk=62cf83bf948c722a", "scanned_at": "2026-07-09T09:44:53+00:00", "source": "indeed", "score": 70, "ticket": false, "post_date": "2026-07-09"}
+{"url": "https://se.indeed.com/viewjob?jk=23652c7abf450811", "scanned_at": "2026-07-09T09:44:54+00:00", "source": "indeed", "score": 60, "ticket": false, "post_date": "2026-07-09"}
+{"url": "https://se.indeed.com/viewjob?jk=ffe72941574d3f21", "scanned_at": "2026-07-09T09:44:54+00:00", "source": "indeed", "score": 30, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://se.indeed.com/viewjob?jk=ff518a8848fd8562", "scanned_at": "2026-07-09T09:44:56+00:00", "source": "indeed", "score": 85, "ticket": true, "post_date": "2026-07-08"}
+{"url": "https://se.indeed.com/viewjob?jk=5f8bc10ce001cc53", "scanned_at": "2026-07-09T09:44:57+00:00", "source": "indeed", "score": 85, "ticket": true, "post_date": "2026-07-08"}
+{"url": "https://se.indeed.com/viewjob?jk=252cb0e55b215b4f", "scanned_at": "2026-07-09T09:44:59+00:00", "source": "indeed", "score": 65, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://se.indeed.com/viewjob?jk=17f179aa95a5bea2", "scanned_at": "2026-07-09T09:44:59+00:00", "source": "indeed", "score": 45, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://se.indeed.com/viewjob?jk=bd3c5e7455810b37", "scanned_at": "2026-07-09T09:45:00+00:00", "source": "indeed", "score": 30, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://se.indeed.com/viewjob?jk=1e7f2cedf7e91f1e", "scanned_at": "2026-07-09T09:45:02+00:00", "source": "indeed", "score": 85, "ticket": true, "post_date": "2026-07-07"}
+{"url": "https://se.indeed.com/viewjob?jk=d9ae5d05969013b7", "scanned_at": "2026-07-09T09:45:03+00:00", "source": "indeed", "score": 65, "ticket": false, "post_date": "2026-07-07"}
+{"url": "https://se.indeed.com/viewjob?jk=8f0946b21207b13f", "scanned_at": "2026-07-09T09:45:04+00:00", "source": "indeed", "score": 35, "ticket": false, "post_date": "2026-07-03"}
+{"url": "https://se.indeed.com/viewjob?jk=e2ce56ff8a1443ca", "scanned_at": "2026-07-09T09:45:04+00:00", "source": "indeed", "score": 30, "ticket": false, "post_date": "2026-07-01"}
+{"url": "https://se.indeed.com/viewjob?jk=e9b670466c056fc7", "scanned_at": "2026-07-09T09:45:05+00:00", "source": "indeed", "score": 35, "ticket": false, "post_date": "2026-07-01"}
+{"url": "https://www.linkedin.com/jobs/view/4437332504", "scanned_at": "2026-07-09T09:45:06+00:00", "source": "linkedin", "score": 30, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4418774059", "scanned_at": "2026-07-09T09:45:07+00:00", "source": "linkedin", "score": 45, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435662345", "scanned_at": "2026-07-09T09:45:08+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437346144", "scanned_at": "2026-07-09T09:45:09+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4437372914", "scanned_at": "2026-07-09T09:45:10+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438598128", "scanned_at": "2026-07-09T09:45:11+00:00", "source": "linkedin", "score": 90, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4437341217", "scanned_at": "2026-07-09T09:45:13+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438589256", "scanned_at": "2026-07-09T09:45:13+00:00", "source": "linkedin", "score": 40, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435662333", "scanned_at": "2026-07-09T09:45:14+00:00", "source": "linkedin", "score": 65, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438600702", "scanned_at": "2026-07-09T09:45:14+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4430922857", "scanned_at": "2026-07-09T09:45:16+00:00", "source": "linkedin", "score": 20, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4434895720", "scanned_at": "2026-07-09T09:45:16+00:00", "source": "linkedin", "score": 35, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437379455", "scanned_at": "2026-07-09T09:45:17+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438591589", "scanned_at": "2026-07-09T09:45:18+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4425060507", "scanned_at": "2026-07-09T09:45:18+00:00", "source": "linkedin", "score": 30, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438569893", "scanned_at": "2026-07-09T09:45:19+00:00", "source": "linkedin", "score": 65, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438595392", "scanned_at": "2026-07-09T09:45:20+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438546639", "scanned_at": "2026-07-09T09:45:21+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438561072", "scanned_at": "2026-07-09T09:45:21+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438548622", "scanned_at": "2026-07-09T09:45:22+00:00", "source": "linkedin", "score": 65, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438547631", "scanned_at": "2026-07-09T09:45:23+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438546653", "scanned_at": "2026-07-09T09:45:23+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4392402657", "scanned_at": "2026-07-09T09:45:24+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4421113821", "scanned_at": "2026-07-09T09:45:25+00:00", "source": "linkedin", "score": 65, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435640759", "scanned_at": "2026-07-09T09:45:26+00:00", "source": "linkedin", "score": 30, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4423519399", "scanned_at": "2026-07-09T09:45:26+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://se.indeed.com/viewjob?jk=bfacf43087e247e9", "scanned_at": "2026-07-09T09:45:27+00:00", "source": "indeed", "score": 40, "ticket": false, "post_date": "2026-07-09"}
+{"url": "https://se.indeed.com/viewjob?jk=8d70cd7194b7e3c9", "scanned_at": "2026-07-09T09:45:28+00:00", "source": "indeed", "score": 45, "ticket": false, "post_date": "2026-07-09"}
+{"url": "https://se.indeed.com/viewjob?jk=ad9f71c37838ffde", "scanned_at": "2026-07-09T09:45:28+00:00", "source": "indeed", "score": 55, "ticket": false, "post_date": "2026-07-09"}
+{"url": "https://se.indeed.com/viewjob?jk=50a78ddafb3838da", "scanned_at": "2026-07-09T09:45:29+00:00", "source": "indeed", "score": 55, "ticket": false, "post_date": "2026-07-09"}
+{"url": "https://se.indeed.com/viewjob?jk=2a8861ae2133be96", "scanned_at": "2026-07-09T09:45:30+00:00", "source": "indeed", "score": 55, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://se.indeed.com/viewjob?jk=2850a3ef8218c6e8", "scanned_at": "2026-07-09T09:45:30+00:00", "source": "indeed", "score": 35, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://se.indeed.com/viewjob?jk=3e116efe036d16cb", "scanned_at": "2026-07-09T09:45:31+00:00", "source": "indeed", "score": 25, "ticket": false, "post_date": "2026-06-16"}
+{"url": "https://www.linkedin.com/jobs/view/4438511736", "scanned_at": "2026-07-09T09:45:32+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438598344", "scanned_at": "2026-07-09T09:45:33+00:00", "source": "linkedin", "score": 45, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435651302", "scanned_at": "2026-07-09T09:45:33+00:00", "source": "linkedin", "score": 60, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438590573", "scanned_at": "2026-07-09T09:45:34+00:00", "source": "linkedin", "score": 20, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438588764", "scanned_at": "2026-07-09T09:45:35+00:00", "source": "linkedin", "score": 30, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438607404", "scanned_at": "2026-07-09T09:45:35+00:00", "source": "linkedin", "score": 30, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437377689", "scanned_at": "2026-07-09T09:45:36+00:00", "source": "linkedin", "score": 50, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437348073", "scanned_at": "2026-07-09T09:45:37+00:00", "source": "linkedin", "score": 30, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4413987093", "scanned_at": "2026-07-09T09:45:38+00:00", "source": "linkedin", "score": 65, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438550614", "scanned_at": "2026-07-09T09:45:39+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438596671", "scanned_at": "2026-07-09T09:45:40+00:00", "source": "linkedin", "score": 40, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435651561", "scanned_at": "2026-07-09T09:45:40+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438600141", "scanned_at": "2026-07-09T09:45:41+00:00", "source": "linkedin", "score": 60, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438545799", "scanned_at": "2026-07-09T09:45:42+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435637928", "scanned_at": "2026-07-09T09:45:43+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438591955", "scanned_at": "2026-07-09T09:45:44+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4437382347", "scanned_at": "2026-07-09T09:45:45+00:00", "source": "linkedin", "score": 30, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437374737", "scanned_at": "2026-07-09T09:45:46+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438577909", "scanned_at": "2026-07-09T09:45:46+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437357384", "scanned_at": "2026-07-09T09:45:47+00:00", "source": "linkedin", "score": 65, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438515612", "scanned_at": "2026-07-09T09:45:48+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438590776", "scanned_at": "2026-07-09T09:45:48+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438597783", "scanned_at": "2026-07-09T09:45:49+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4428783998", "scanned_at": "2026-07-09T09:45:50+00:00", "source": "linkedin", "score": 60, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4428787893", "scanned_at": "2026-07-09T09:45:51+00:00", "source": "linkedin", "score": 50, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438592587", "scanned_at": "2026-07-09T09:45:51+00:00", "source": "linkedin", "score": 30, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437334311", "scanned_at": "2026-07-09T09:45:52+00:00", "source": "linkedin", "score": 30, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438560153", "scanned_at": "2026-07-09T09:45:54+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438591804", "scanned_at": "2026-07-09T09:45:54+00:00", "source": "linkedin", "score": 30, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437308641", "scanned_at": "2026-07-09T09:45:55+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437376071", "scanned_at": "2026-07-09T09:45:56+00:00", "source": "linkedin", "score": 30, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438604060", "scanned_at": "2026-07-09T09:45:56+00:00", "source": "linkedin", "score": 60, "ticket": false}
+{"url": "https://be.indeed.com/viewjob?jk=a654629e7f8d890c", "scanned_at": "2026-07-09T09:45:57+00:00", "source": "indeed", "score": 30, "ticket": false, "post_date": "2026-07-09"}
+{"url": "https://be.indeed.com/viewjob?jk=a285218d70765de6", "scanned_at": "2026-07-09T09:45:57+00:00", "source": "indeed", "score": 65, "ticket": false, "post_date": "2026-07-09"}
+{"url": "https://be.indeed.com/viewjob?jk=9f3259ab1b0acff9", "scanned_at": "2026-07-09T09:45:58+00:00", "source": "indeed", "score": 65, "ticket": false, "post_date": "2026-07-09"}
+{"url": "https://be.indeed.com/viewjob?jk=2d5a0c22486fa79a", "scanned_at": "2026-07-09T09:45:59+00:00", "source": "indeed", "score": 20, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://www.linkedin.com/jobs/view/4435656467", "scanned_at": "2026-07-09T09:46:00+00:00", "source": "linkedin", "score": 50, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438590488", "scanned_at": "2026-07-09T09:46:00+00:00", "source": "linkedin", "score": 50, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437390101", "scanned_at": "2026-07-09T09:46:01+00:00", "source": "linkedin", "score": 40, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437382332", "scanned_at": "2026-07-09T09:46:02+00:00", "source": "linkedin", "score": 50, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438592813", "scanned_at": "2026-07-09T09:46:02+00:00", "source": "linkedin", "score": 30, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435657335", "scanned_at": "2026-07-09T09:46:03+00:00", "source": "linkedin", "score": 20, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437341216", "scanned_at": "2026-07-09T09:46:04+00:00", "source": "linkedin", "score": 40, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435638573", "scanned_at": "2026-07-09T09:46:04+00:00", "source": "linkedin", "score": 30, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437340294", "scanned_at": "2026-07-09T09:46:06+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438585487", "scanned_at": "2026-07-09T09:46:06+00:00", "source": "linkedin", "score": 20, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437335745", "scanned_at": "2026-07-09T09:46:07+00:00", "source": "linkedin", "score": 25, "ticket": false}
+{"url": "https://be.indeed.com/viewjob?jk=570840f4dea2334f", "scanned_at": "2026-07-09T09:46:08+00:00", "source": "indeed", "score": 20, "ticket": false, "post_date": "2026-07-09"}
+{"url": "https://be.indeed.com/viewjob?jk=7fddb92ccf4022ba", "scanned_at": "2026-07-09T09:46:09+00:00", "source": "indeed", "score": 25, "ticket": false, "post_date": "2026-07-09"}
+{"url": "https://be.indeed.com/viewjob?jk=782103f65a64b547", "scanned_at": "2026-07-09T09:46:09+00:00", "source": "indeed", "score": 30, "ticket": false, "post_date": "2026-07-09"}
+{"url": "https://be.indeed.com/viewjob?jk=57cfbe9e27769d41", "scanned_at": "2026-07-09T09:46:10+00:00", "source": "indeed", "score": 40, "ticket": false, "post_date": "2026-07-09"}
+{"url": "https://be.indeed.com/viewjob?jk=5b07321fa317f18a", "scanned_at": "2026-07-09T09:46:11+00:00", "source": "indeed", "score": 40, "ticket": false, "post_date": "2026-07-09"}
+{"url": "https://be.indeed.com/viewjob?jk=ff9dca96963d6faf", "scanned_at": "2026-07-09T09:46:12+00:00", "source": "indeed", "score": 50, "ticket": false, "post_date": "2026-07-09"}
+{"url": "https://be.indeed.com/viewjob?jk=2839d574719051fa", "scanned_at": "2026-07-09T09:46:13+00:00", "source": "indeed", "score": 20, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://www.linkedin.com/jobs/view/4437352695", "scanned_at": "2026-07-09T09:46:18+00:00", "source": "linkedin", "score": 30, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4426042672", "scanned_at": "2026-07-09T09:46:19+00:00", "source": "linkedin", "score": 60, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438601159", "scanned_at": "2026-07-09T09:46:20+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438597132", "scanned_at": "2026-07-09T09:46:20+00:00", "source": "linkedin", "score": 55, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438516540", "scanned_at": "2026-07-09T09:46:21+00:00", "source": "linkedin", "score": 55, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438596152", "scanned_at": "2026-07-09T09:46:22+00:00", "source": "linkedin", "score": 30, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437380393", "scanned_at": "2026-07-09T09:46:22+00:00", "source": "linkedin", "score": 30, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435661253", "scanned_at": "2026-07-09T09:46:24+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4437376367", "scanned_at": "2026-07-09T09:46:24+00:00", "source": "linkedin", "score": 55, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438612134", "scanned_at": "2026-07-09T09:46:29+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437351648", "scanned_at": "2026-07-09T09:46:30+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437354372", "scanned_at": "2026-07-09T09:46:31+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437367064", "scanned_at": "2026-07-09T09:46:31+00:00", "source": "linkedin", "score": 35, "ticket": false}
+{"url": "https://www.indeed.com/viewjob?jk=f8e4a3307d2cea8e", "scanned_at": "2026-07-09T09:46:32+00:00", "source": "indeed", "score": 65, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://www.linkedin.com/jobs/view/4438583688", "scanned_at": "2026-07-09T09:46:33+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438585496", "scanned_at": "2026-07-09T09:46:34+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4403900994", "scanned_at": "2026-07-09T09:46:34+00:00", "source": "linkedin", "score": 65, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4403913854", "scanned_at": "2026-07-09T09:46:35+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438598735", "scanned_at": "2026-07-09T09:46:36+00:00", "source": "linkedin", "score": 55, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438608045", "scanned_at": "2026-07-09T09:46:37+00:00", "source": "linkedin", "score": 60, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438516455", "scanned_at": "2026-07-09T09:46:38+00:00", "source": "linkedin", "score": 20, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437363183", "scanned_at": "2026-07-09T09:46:38+00:00", "source": "linkedin", "score": 65, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438613136", "scanned_at": "2026-07-09T09:46:39+00:00", "source": "linkedin", "score": 30, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438595052", "scanned_at": "2026-07-09T09:46:39+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437370056", "scanned_at": "2026-07-09T09:46:40+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438601412", "scanned_at": "2026-07-09T09:46:41+00:00", "source": "linkedin", "score": 60, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437346296", "scanned_at": "2026-07-09T09:46:42+00:00", "source": "linkedin", "score": 50, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438574576", "scanned_at": "2026-07-09T09:46:42+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438598099", "scanned_at": "2026-07-09T09:46:43+00:00", "source": "linkedin", "score": 40, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438518698", "scanned_at": "2026-07-09T09:46:44+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4430106537", "scanned_at": "2026-07-09T09:46:45+00:00", "source": "linkedin", "score": 20, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438605272", "scanned_at": "2026-07-09T09:46:46+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435636830", "scanned_at": "2026-07-09T09:46:46+00:00", "source": "linkedin", "score": 55, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438530245", "scanned_at": "2026-07-09T09:46:47+00:00", "source": "linkedin", "score": 30, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437336548", "scanned_at": "2026-07-09T09:46:48+00:00", "source": "linkedin", "score": 20, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437310792", "scanned_at": "2026-07-09T09:46:48+00:00", "source": "linkedin", "score": 30, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437373992", "scanned_at": "2026-07-09T09:46:49+00:00", "source": "linkedin", "score": 55, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4427353575", "scanned_at": "2026-07-09T09:46:50+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.indeed.com/viewjob?jk=2cfc7d98187fa164", "scanned_at": "2026-07-09T09:46:51+00:00", "source": "indeed", "score": 70, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://www.indeed.com/viewjob?jk=6634dc1610968a3e", "scanned_at": "2026-07-09T09:46:52+00:00", "source": "indeed", "score": 20, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://www.indeed.com/viewjob?jk=2c097dbdf07837fa", "scanned_at": "2026-07-09T09:46:52+00:00", "source": "indeed", "score": 30, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://www.indeed.com/viewjob?jk=3d6c7faddfa145ce", "scanned_at": "2026-07-09T09:46:53+00:00", "source": "indeed", "score": 75, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://www.indeed.com/viewjob?jk=6ede81ac983bce04", "scanned_at": "2026-07-09T09:46:54+00:00", "source": "indeed", "score": 70, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://www.indeed.com/viewjob?jk=4e0018614cde599c", "scanned_at": "2026-07-09T09:46:55+00:00", "source": "indeed", "score": 50, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://www.indeed.com/viewjob?jk=1b7c78b794b5205f", "scanned_at": "2026-07-09T09:46:57+00:00", "source": "indeed", "score": 75, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://www.linkedin.com/jobs/view/4437377631", "scanned_at": "2026-07-09T09:46:57+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4425247558", "scanned_at": "2026-07-09T09:46:58+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438563902", "scanned_at": "2026-07-09T09:46:59+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4417243516", "scanned_at": "2026-07-09T09:47:01+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438586861", "scanned_at": "2026-07-09T09:47:02+00:00", "source": "linkedin", "score": 45, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435630949", "scanned_at": "2026-07-09T09:47:02+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4432681368", "scanned_at": "2026-07-09T09:47:03+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438594893", "scanned_at": "2026-07-09T09:47:04+00:00", "source": "linkedin", "score": 50, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435652580", "scanned_at": "2026-07-09T09:47:04+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.indeed.com/viewjob?jk=13bbb38465bebc08", "scanned_at": "2026-07-09T09:47:05+00:00", "source": "indeed", "score": 35, "ticket": false, "post_date": "2026-07-08"}
+{"url": "https://www.linkedin.com/jobs/view/4438589536", "scanned_at": "2026-07-09T09:47:06+00:00", "source": "linkedin", "score": 45, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438574938", "scanned_at": "2026-07-09T09:47:07+00:00", "source": "linkedin", "score": 30, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438582196", "scanned_at": "2026-07-09T09:47:08+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435646188", "scanned_at": "2026-07-09T09:47:08+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437387365", "scanned_at": "2026-07-09T09:47:09+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438566787", "scanned_at": "2026-07-09T09:47:10+00:00", "source": "linkedin", "score": 60, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438573577", "scanned_at": "2026-07-09T09:47:11+00:00", "source": "linkedin", "score": 25, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438584130", "scanned_at": "2026-07-09T09:47:12+00:00", "source": "linkedin", "score": 25, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437343930", "scanned_at": "2026-07-09T09:47:12+00:00", "source": "linkedin", "score": 60, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437355273", "scanned_at": "2026-07-09T09:47:13+00:00", "source": "linkedin", "score": 60, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437372776", "scanned_at": "2026-07-09T09:47:14+00:00", "source": "linkedin", "score": 30, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435641923", "scanned_at": "2026-07-09T09:47:14+00:00", "source": "linkedin", "score": 30, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438579397", "scanned_at": "2026-07-09T09:47:15+00:00", "source": "linkedin", "score": 30, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437365132", "scanned_at": "2026-07-09T09:47:16+00:00", "source": "linkedin", "score": 30, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437306891", "scanned_at": "2026-07-09T09:47:17+00:00", "source": "linkedin", "score": 45, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437359195", "scanned_at": "2026-07-09T09:47:18+00:00", "source": "linkedin", "score": 50, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437307871", "scanned_at": "2026-07-09T09:47:18+00:00", "source": "linkedin", "score": 60, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437369049", "scanned_at": "2026-07-09T09:47:19+00:00", "source": "linkedin", "score": 60, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438518273", "scanned_at": "2026-07-09T09:47:20+00:00", "source": "linkedin", "score": 30, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4425995646", "scanned_at": "2026-07-09T09:47:21+00:00", "source": "linkedin", "score": 30, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438589613", "scanned_at": "2026-07-09T09:47:22+00:00", "source": "linkedin", "score": 20, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438569654", "scanned_at": "2026-07-09T09:47:23+00:00", "source": "linkedin", "score": 30, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438590649", "scanned_at": "2026-07-09T09:47:24+00:00", "source": "linkedin", "score": 20, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438609002", "scanned_at": "2026-07-09T09:47:24+00:00", "source": "linkedin", "score": 65, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435655387", "scanned_at": "2026-07-09T09:47:27+00:00", "source": "linkedin", "score": 60, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438606165", "scanned_at": "2026-07-09T09:47:28+00:00", "source": "linkedin", "score": 65, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438600432", "scanned_at": "2026-07-09T09:47:29+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438607096", "scanned_at": "2026-07-09T09:47:29+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438586899", "scanned_at": "2026-07-09T09:47:30+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438601388", "scanned_at": "2026-07-09T09:47:31+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438598488", "scanned_at": "2026-07-09T09:47:32+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438596551", "scanned_at": "2026-07-09T09:47:33+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435651223", "scanned_at": "2026-07-09T09:47:34+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438593037", "scanned_at": "2026-07-09T09:47:35+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438590840", "scanned_at": "2026-07-09T09:47:36+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438577790", "scanned_at": "2026-07-09T09:47:38+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4435603226", "scanned_at": "2026-07-09T09:47:39+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437327804", "scanned_at": "2026-07-09T09:47:40+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438590959", "scanned_at": "2026-07-09T09:47:41+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4437375352", "scanned_at": "2026-07-09T09:47:41+00:00", "source": "linkedin", "score": 60, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4423942676", "scanned_at": "2026-07-09T09:47:43+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438600523", "scanned_at": "2026-07-09T09:47:44+00:00", "source": "linkedin", "score": 65, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438599593", "scanned_at": "2026-07-09T09:47:47+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438608213", "scanned_at": "2026-07-09T09:47:48+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438592874", "scanned_at": "2026-07-09T09:47:48+00:00", "source": "linkedin", "score": 65, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438595659", "scanned_at": "2026-07-09T09:47:49+00:00", "source": "linkedin", "score": 60, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437333493", "scanned_at": "2026-07-09T09:47:50+00:00", "source": "linkedin", "score": 35, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438594200", "scanned_at": "2026-07-09T09:47:50+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437348014", "scanned_at": "2026-07-09T09:47:51+00:00", "source": "linkedin", "score": 35, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438581751", "scanned_at": "2026-07-09T09:47:53+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4435645410", "scanned_at": "2026-07-09T09:47:54+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4437328643", "scanned_at": "2026-07-09T09:47:54+00:00", "source": "linkedin", "score": 40, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437334446", "scanned_at": "2026-07-09T09:47:55+00:00", "source": "linkedin", "score": 50, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437335398", "scanned_at": "2026-07-09T09:47:56+00:00", "source": "linkedin", "score": 45, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438595785", "scanned_at": "2026-07-09T09:47:57+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4399695940", "scanned_at": "2026-07-09T09:47:58+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438596804", "scanned_at": "2026-07-09T09:47:58+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437375721", "scanned_at": "2026-07-09T09:47:59+00:00", "source": "linkedin", "score": 40, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435655353", "scanned_at": "2026-07-09T09:48:00+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4437375245", "scanned_at": "2026-07-09T09:48:02+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4429996743", "scanned_at": "2026-07-09T09:48:03+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4434562408", "scanned_at": "2026-07-09T09:48:04+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435628554", "scanned_at": "2026-07-09T09:48:07+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438585113", "scanned_at": "2026-07-09T09:48:09+00:00", "source": "linkedin", "score": 55, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435640831", "scanned_at": "2026-07-09T09:48:11+00:00", "source": "linkedin", "score": 50, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4416750376", "scanned_at": "2026-07-09T09:48:14+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438571705", "scanned_at": "2026-07-09T09:48:15+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4435636997", "scanned_at": "2026-07-09T09:48:16+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437368775", "scanned_at": "2026-07-09T09:48:17+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4432752756", "scanned_at": "2026-07-09T09:48:18+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438561385", "scanned_at": "2026-07-09T09:48:18+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4407789366", "scanned_at": "2026-07-09T09:48:20+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4354062834", "scanned_at": "2026-07-09T09:48:21+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4437334967", "scanned_at": "2026-07-09T09:48:22+00:00", "source": "linkedin", "score": 80, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4437360065", "scanned_at": "2026-07-09T09:48:23+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4410027628", "scanned_at": "2026-07-09T09:48:24+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4435641971", "scanned_at": "2026-07-09T09:48:25+00:00", "source": "linkedin", "score": 40, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435624954", "scanned_at": "2026-07-09T09:48:26+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437082435", "scanned_at": "2026-07-09T09:48:26+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438600540", "scanned_at": "2026-07-09T09:48:28+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4437369233", "scanned_at": "2026-07-09T09:48:29+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4428119025", "scanned_at": "2026-07-09T09:48:30+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437353897", "scanned_at": "2026-07-09T09:48:31+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437378486", "scanned_at": "2026-07-09T09:48:32+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4435649542", "scanned_at": "2026-07-09T09:48:33+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438583852", "scanned_at": "2026-07-09T09:48:34+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438599113", "scanned_at": "2026-07-09T09:48:35+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4435603299", "scanned_at": "2026-07-09T09:48:37+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4437333351", "scanned_at": "2026-07-09T09:48:37+00:00", "source": "linkedin", "score": 60, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4417222880", "scanned_at": "2026-07-09T09:48:38+00:00", "source": "linkedin", "score": 50, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438578761", "scanned_at": "2026-07-09T09:48:38+00:00", "source": "linkedin", "score": 20, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435625692", "scanned_at": "2026-07-09T09:48:40+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438562755", "scanned_at": "2026-07-09T09:48:43+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4418264095", "scanned_at": "2026-07-09T09:48:43+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4434898819", "scanned_at": "2026-07-09T09:48:45+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438565657", "scanned_at": "2026-07-09T09:48:46+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438580443", "scanned_at": "2026-07-09T09:48:47+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435656561", "scanned_at": "2026-07-09T09:48:47+00:00", "source": "linkedin", "score": 20, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438596734", "scanned_at": "2026-07-09T09:48:55+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4437328649", "scanned_at": "2026-07-09T09:48:55+00:00", "source": "linkedin", "score": 40, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437342186", "scanned_at": "2026-07-09T09:48:56+00:00", "source": "linkedin", "score": 45, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437341219", "scanned_at": "2026-07-09T09:48:56+00:00", "source": "linkedin", "score": 40, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438580445", "scanned_at": "2026-07-09T09:48:57+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4437388128", "scanned_at": "2026-07-09T09:48:58+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437375015", "scanned_at": "2026-07-09T09:49:00+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438587180", "scanned_at": "2026-07-09T09:49:01+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4435637991", "scanned_at": "2026-07-09T09:49:02+00:00", "source": "linkedin", "score": 60, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437348513", "scanned_at": "2026-07-09T09:49:03+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4437370710", "scanned_at": "2026-07-09T09:49:04+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437142835", "scanned_at": "2026-07-09T09:49:05+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4437759023", "scanned_at": "2026-07-09T09:49:06+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4438579549", "scanned_at": "2026-07-09T09:49:07+00:00", "source": "linkedin", "score": 60, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435651218", "scanned_at": "2026-07-09T09:49:08+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4435664244", "scanned_at": "2026-07-09T09:49:10+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4437364578", "scanned_at": "2026-07-09T09:49:11+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435642095", "scanned_at": "2026-07-09T09:49:12+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4354108530", "scanned_at": "2026-07-09T09:49:13+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4435657450", "scanned_at": "2026-07-09T09:49:14+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4435665038", "scanned_at": "2026-07-09T09:49:15+00:00", "source": "linkedin", "score": 30, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437330571", "scanned_at": "2026-07-09T09:49:16+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4437340291", "scanned_at": "2026-07-09T09:49:18+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4430412859", "scanned_at": "2026-07-09T09:49:19+00:00", "source": "linkedin", "score": 65, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4435639912", "scanned_at": "2026-07-09T09:49:19+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438590875", "scanned_at": "2026-07-09T09:49:21+00:00", "source": "linkedin", "score": 80, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4435640311", "scanned_at": "2026-07-09T09:49:21+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4437306525", "scanned_at": "2026-07-09T09:49:22+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438590470", "scanned_at": "2026-07-09T09:49:24+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4435644414", "scanned_at": "2026-07-09T09:49:25+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4435634472", "scanned_at": "2026-07-09T09:49:26+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4426054049", "scanned_at": "2026-07-09T09:49:26+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438605300", "scanned_at": "2026-07-09T09:49:27+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438598261", "scanned_at": "2026-07-09T09:49:29+00:00", "source": "linkedin", "score": 85, "ticket": true}
+{"url": "https://www.linkedin.com/jobs/view/4437385230", "scanned_at": "2026-07-09T09:49:29+00:00", "source": "linkedin", "score": 75, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4429839728", "scanned_at": "2026-07-09T09:49:30+00:00", "source": "linkedin", "score": 70, "ticket": false}
+{"url": "https://www.linkedin.com/jobs/view/4438581459", "scanned_at": "2026-07-09T09:49:31+00:00", "source": "linkedin", "score": 60, "ticket": false}
